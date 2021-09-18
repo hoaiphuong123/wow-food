@@ -1,0 +1,32 @@
+/* css for mobile size or smaller screen */
+@media only screen and (max-width:768px){
+    .logo{
+        width: 80%;
+        float: none;
+        margin: 1% auto;
+    }
+    .menu ul{
+        text-align: center;
+    }
+    .food-search input[type="search"]{
+        width: 90%;
+        padding: 2%;
+        margin-bottom:5%;
+    }
+    .btn{
+        width: 95%;
+        padding: 2%;
+    }
+    .box-3{
+        width: 95%;
+        margin: 2% auto;
+
+    }
+    .food-menu{
+        padding: 20%;
+    }
+    .food-menu-box{
+        width: 90%;
+        padding: 5%;
+        margin-bottom: 5%;
+    }}
